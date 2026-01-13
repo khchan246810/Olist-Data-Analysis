@@ -1,2 +1,2 @@
 # Olist-Data-Analysis
-Data analyst project
+It's a data analysis project. The dataset can be found here: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce.
